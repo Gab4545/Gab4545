@@ -5,7 +5,7 @@
 
   # Hey there, I'm Gab👋
   
-  ### **17 y/o · Aspiring Cybersecurity Engineer 🔐**
+  ### **🇫🇷 17 y/o · Aspiring Cybersecurity Engineer 🔐**
 
 </div>
 

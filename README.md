@@ -58,7 +58,7 @@ mindset: “Motivation gets you going, but discipline keeps you growing.”
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gab4545&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&hide_rank=true&hide=stars,issues" height="500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gab4545&theme=material-palenight&hide_border=true" />
 </div>
 
 ---
